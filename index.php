@@ -101,6 +101,7 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet"> 
         <link rel="stylesheet" href="style.css">
+        <link rel="icon" type="image/png" href="favicon.png"/>
         <title>Google FAQ</title>
     </head>
     <body>
